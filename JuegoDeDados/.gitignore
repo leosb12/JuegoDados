@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# Otros
+*.exe
+*.dll
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.cache
+*.db
+
+# Sistema
+Thumbs.db
+.DS_Store
